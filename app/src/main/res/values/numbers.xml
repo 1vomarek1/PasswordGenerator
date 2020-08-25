@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="min">8</integer>
+    <integer name="max">30</integer>
+    <integer name="def">12</integer>
+</resources>

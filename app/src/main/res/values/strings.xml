@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="copy">copy</string>
+    <string name="new_password">new</string>
+    <string name="password_copied">Password has been copied to clipboard</string>
+    <string name="letters">Letters</string>
+    <string name="numbers">Numbers</string>
+    <string name="symbols">Symbols</string>
+    <string name="new_password_description">New Password</string>
+</resources>
